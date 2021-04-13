@@ -1,5 +1,24 @@
+body{
+    color: #3b2f57;
+    background-color: #f9dfc2;
+    font-family: 'Raleway',sans-serif;
+}
 a {
     text-decoration: none;
     padding: 0 1em;
-    color: #7c8ee3;
+    color: #3b2f57;
+    
 }
+p, li{
+    font-size: 17px;
+    line-height: 24px; 
+    margin: 0 0 24px; 
+    text-align: justify; 
+    text-justify: inter-word;
+}
+h1{
+    margin-left: 20px;
+}
+a:hover { 
+    color: #a35cb7;
+ }

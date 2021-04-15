@@ -15,10 +15,20 @@ p, li{
     margin: 0 0 24px; 
     text-align: justify; 
     text-justify: inter-word;
-}
-h1{
     margin-left: 20px;
 }
+h1,h2,h3{
+    margin-left: 20px;
+}
+p{
+    width: 800px;
+    
+}
+
 a:hover { 
     color: #a35cb7;
+ }
+ img{
+     position: absolute;
+     left : 900px;
  }

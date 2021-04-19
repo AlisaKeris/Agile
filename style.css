@@ -32,3 +32,12 @@ a:hover {
      position: absolute;
      left : 900px;
  }
+ table {
+	border-collapse: collapse;
+    border-spacing: 10px 10px;
+    border-color: #3b2f57;
+}
+th, td {
+	padding: 10px;
+}
+
